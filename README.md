@@ -1,4 +1,4 @@
-#👋 Hey, I'm Abhinav Yadav
+# 👋 Hey, I'm Abhinav Yadav
 Curious mind | Data Science Enthusiast | Builder at Heart
 
 🔹 Currently a 3rd-year B.Tech student at KIET Group of Institutions, Ghaziabad
@@ -6,7 +6,7 @@ Curious mind | Data Science Enthusiast | Builder at Heart
 🔹 I love experimenting with Machine Learning, Deep Learning, EDA, NLP, and exploring Transformer models
 🔹 Strong foundation in Python, C++, NumPy, pandas, matplotlib, and statistics
 
-#🌟 My Journey So Far:
+# 🌟 My Journey So Far:
 📈 Participated in the Finlatics Data Science Experience Program (Fincrux, a startup recognized by the Indian Government)
 📣 Worked as an Internshala Student Partner, motivating students and managing branding campaigns
 ✍️ Wrote articles like The Future of Data Analytics, sharing insights about emerging data trends
