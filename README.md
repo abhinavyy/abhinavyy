@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Abhinav Yadav  
 Curious mind | Data Science Enthusiast | 
 
-🔹 Currently a 3rd-year B.Tech student 
+🔹 Currently a final-year B.Tech student 
 🔹 Passionate about building real-world projects where **Data Science** meets innovation  
 
 # 🌟 My Journey So Far:  
