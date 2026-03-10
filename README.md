@@ -27,6 +27,7 @@ My interests include **Machine Learning, LLM applications, Computer Vision, and 
 ## 📊 Data Science Intern — Finlatics
 📍 Remote — Gurugram, India  
 🗓 Mar 2024 – May 2024
+--
 ---
 
 # 🧠 Technical Skills
