@@ -23,22 +23,11 @@ My interests include **Machine Learning, LLM applications, Computer Vision, and 
 📍 Remote — Dubai, UAE  
 🗓 Jan 2026 – Present
 
-- Developing and maintaining **core AI components** with focus on stability and production readiness
-- Built an **AI-powered RSS Reader using Groq** enabling users to query live news feeds and receive contextual summaries
-- Implemented a **community event module** allowing users to create and join meetups
-- Working with **LLMs, APIs, and scalable backend integrations**
-
 ---
 
 ## 📊 Data Science Intern — Finlatics
 📍 Remote — Gurugram, India  
 🗓 Mar 2024 – May 2024
-
-- Analyzed **500K+ row datasets** using Python, Pandas, and NumPy
-- Reduced data processing time by **40%**
-- Built ML models (**Linear Regression, Decision Trees, Random Forest**)
-- Improved prediction accuracy from **78% → 91%**
-
 ---
 ---
 
