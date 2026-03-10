@@ -23,12 +23,10 @@ My interests include **Machine Learning, LLM applications, Computer Vision, and 
 📍 Remote — Dubai, UAE  
 🗓 Jan 2026 – Present
 
----
 
 ## 📊 Data Science Intern — Finlatics
 📍 Remote — Gurugram, India  
 🗓 Mar 2024 – May 2024
----
 ---
 
 # 🧠 Technical Skills
@@ -49,11 +47,9 @@ PostgreSQL • MySQL • SQLite
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavyy&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhinavyy&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavyy&layout=compact&theme=tokyonight)
 
 ---
 
