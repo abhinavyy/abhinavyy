@@ -21,7 +21,7 @@ My interests include **Machine Learning, LLM applications, Computer Vision, and 
 
 ## 🤖 AI Engineer Intern — Bot Point
 📍 Remote — Dubai, UAE  
-🗓 Jan 2026 – Present
+🗓 Jan 2026 – April 2026
 
 
 ## 📊 Data Science Intern — Finlatics
