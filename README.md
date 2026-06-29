@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Abhinav Yadav
 
-##🚀 AI Engineer Intern | Data Science Enthusiast 
+#🚀 AI Engineer Intern | Data Science Enthusiast 
 
 I’m passionate about building **AI systems and data-driven solutions** that solve real-world problems.  
 My interests include **Machine Learning, LLM applications, Computer Vision, and scalable AI systems**.
